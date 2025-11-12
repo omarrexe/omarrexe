@@ -1,14 +1,17 @@
 <h1 align="center">Hi 👋, I'm OMAR</h1>
+
+<p>🔭 Working on: Building my SQL and Python skills through hands-on projects</p>
+<p>👯 Open to collaborate on: Data projects where I can learn and contribute</p>
+<p>🤝 Need help with: Getting better at data engineering fundamentals</p>
+<p>🌱 Currently learning: SQL, Python, ETL tools</p>
+ 
+ 
+ 
+💬 Ask me about: Starting out in data engineering
+
 <h3 align="center">Aspiring Data Engineer | Building SQL, Python & ETL Skills</h3>
 
 
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarrexe&label=Profile%20views&color=0e75b6&style=flat" alt="omarrexe" /> </p>
-
-<p align="left"> <a href="https://twitter.com/omarrexe" target="blank"><img src="https://img.shields.io/twitter/follow/omarrexe?logo=twitter&style=for-the-badge" alt="omarrexe" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarrexe&show_icons=true&locale=en&layout=compact" alt="omarrexe" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarrexe&show_icons=true&locale=en" alt="omarrexe" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarrexe&label=Profile%20views&color=0e75b6&style=flat" alt="omarrexe" /> </p>
+<p align="left"> <a href="https://twitter.com/omarrexe" target="blank"><img src="https://img.shields.io/twitter/follow/omarrexe?logo=twitter&style=for-the-badge" alt="omarrexe" /></a> </p>
