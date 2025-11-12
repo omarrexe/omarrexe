@@ -1,7 +1,8 @@
 
-
 <h1 align="center">Hi 👋, I'm OMAR</h1>
 <h3 align="center">Aspiring Data Engineer | Building SQL, Python & ETL Skills</h3>
+</br>
+
 # 💫 About Me:
 🔭 Working on: Building my SQL and Python skills through hands-on projects<br>👯 Open to collaborate on: Data projects where I can learn and contribute<br>🤝 Need help with: Getting better at data engineering fundamentals<br>🌱 Currently learning: SQL, Python, ETL tools<br>💬 Ask me about: Starting out in data engineering
 
