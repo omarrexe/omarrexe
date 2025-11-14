@@ -54,7 +54,7 @@ I'm passionate about data engineering and building efficient data pipelines. Cur
 <img src="https://github-readme-stats.vercel.app/api?username=omarrexe&show_icons=true&theme=transparent&hide_border=true&title_color=2e9ef7&icon_color=2e9ef7&text_color=666&bg_color=00000000" alt="GitHub Stats" height="170" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarrexe&theme=transparent&hide_border=true&ring=2e9ef7&fire=2e9ef7&currStreakLabel=666&sideNums=666&sideLabels=666&dates=666&background=00000000" alt="GitHub Streak" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarrexe&layout=compact&theme=transparent&hide_border=true&title_color=2e9ef7&text_color=666&bg_color=00000000" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarrexe&layout=compact&theme=transparent&hide_border=true&title_color=2e9ef7&text_color=666&bg_color=00000000&langs_count=8" alt="Top Languages" />
 
 </div>
 
