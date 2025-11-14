@@ -12,35 +12,14 @@
 
 ## 🎯 About Me
 
-```python
-class DataEngineer:
-    def __init__(self):
-        self.name = "Omar"
-        self.role = "Aspiring Data Engineer"
-        self.location = "Egypt 🇪🇬"
-        self.current_focus = ["SQL", "Python", "ETL Pipelines"]
-        self.learning_goals = {
-            "databases": ["PostgreSQL", "MS SQL Server"],
-            "languages": ["Python", "SQL"],
-            "tools": ["Docker", "Git", "Pandas"],
-            "next_up": ["Apache Airflow", "dbt", "Snowflake"]
-        }
-    
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together 🚀")
+I'm passionate about data engineering and building efficient data pipelines. Currently focusing on strengthening my SQL and Python skills through hands-on projects while exploring modern ETL tools and data architectures.
 
-me = DataEngineer()
-me.say_hi()
-```
-
----
-
-## 🔥 What I'm Up To
-
-- 🏗️ **Building**: Hands-on SQL and Python projects to strengthen fundamentals
-- 📚 **Learning**: ETL tools and data pipeline architectures
-- 🤝 **Collaborating**: Open to data projects where I can learn and contribute
-- 🎯 **Goal**: Master data engineering fundamentals and build production-ready pipelines
+**What I'm Currently Doing:**
+- 🏗️ Building hands-on SQL and Python projects to strengthen fundamentals
+- 📚 Learning ETL tools and data pipeline architectures
+- 🤝 Open to data projects where I can learn and contribute
+- 🎯 Mastering data engineering fundamentals and building production-ready pipelines
+- 📍 Based in Egypt 🇪🇬
 
 ---
 
@@ -72,10 +51,10 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=omarrexe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omarrexe&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=omarrexe&show_icons=true&theme=transparent&hide_border=true&title_color=2e9ef7&icon_color=2e9ef7&text_color=666&bg_color=00000000" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omarrexe&theme=transparent&hide_border=true&ring=2e9ef7&fire=2e9ef7&currStreakLabel=666&sideNums=666&sideLabels=666&dates=666&background=00000000" alt="GitHub Streak" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarrexe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarrexe&layout=compact&theme=transparent&hide_border=true&title_color=2e9ef7&text_color=666&bg_color=00000000" alt="Top Languages" />
 
 </div>
 
@@ -108,13 +87,14 @@ me.say_hi()
 
 ### 💭 Quote of the Day
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&border=false)
 
 ---
 
 **"Data is the new oil, and I'm learning to refine it! ⛽→💎"**
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation dark" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation light" />
 
 ---
 
