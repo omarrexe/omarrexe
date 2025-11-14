@@ -1,26 +1,123 @@
-<h1 align="center">Hi 👋, I'm Omar</h1>
-<h3 align="center">Aspiring Data Engineer | Building SQL, Python & ETL Skills</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarrexe&label=Profile%20views&color=0e75b6&style=flat" alt="omarrexe" /> </p>
+# 👨‍💻 Omar | Data Engineer in the Making
 
-<p align="left"> <a href="https://twitter.com/omarrexe" target="blank"><img src="https://img.shields.io/twitter/follow/omarrexe?logo=twitter&style=for-the-badge" alt="omarrexe" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Data+Pipelines+%F0%9F%9A%80;SQL+%7C+Python+%7C+ETL+Enthusiast;Transforming+Data+into+Insights+%F0%9F%93%8A;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on **my SQL and Python skills through hands-on projects**
+<img src="https://komarev.com/ghpvc/?username=omarrexe&label=Profile%20Views&color=2e9ef7&style=for-the-badge" alt="Profile views" />
 
-- 🌱 I’m currently learning **SQL, Python, ETL tools**
+</div>
 
-- 👯 I’m looking to collaborate on **Data projects where I can learn and contribute**
+---
 
-- 🤝 I’m looking for help with **Getting better at data engineering fundamentals**
+## 🎯 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/omarrexe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omarrexe" height="30" width="40" /></a>
-<a href="https://medium.com/omarexe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="omarexe" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/omarrexe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omarrexe" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/omarrexe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omarrexe" height="30" width="40" /></a>
-<a href="https://discord.gg/omarrr1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="omarrr1" height="30" width="40" /></a>
-</p>
+```python
+class DataEngineer:
+    def __init__(self):
+        self.name = "Omar"
+        self.role = "Aspiring Data Engineer"
+        self.location = "Egypt 🇪🇬"
+        self.current_focus = ["SQL", "Python", "ETL Pipelines"]
+        self.learning_goals = {
+            "databases": ["PostgreSQL", "MS SQL Server"],
+            "languages": ["Python", "SQL"],
+            "tools": ["Docker", "Git", "Pandas"],
+            "next_up": ["Apache Airflow", "dbt", "Snowflake"]
+        }
+    
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something amazing together 🚀")
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+me = DataEngineer()
+me.say_hi()
+```
+
+---
+
+## 🔥 What I'm Up To
+
+- 🏗️ **Building**: Hands-on SQL and Python projects to strengthen fundamentals
+- 📚 **Learning**: ETL tools and data pipeline architectures
+- 🤝 **Collaborating**: Open to data projects where I can learn and contribute
+- 🎯 **Goal**: Master data engineering fundamentals and build production-ready pipelines
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### Data & Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=omarrexe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omarrexe&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarrexe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🏆 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/omarrexe)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/omarrexe)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/omarrexe)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@omarexe)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/omarrr1)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+**"Data is the new oil, and I'm learning to refine it! ⛽→💎"**
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+---
+
+*Thanks for stopping by! Feel free to reach out if you want to collaborate on data projects! 🤝*
+
+</div>
