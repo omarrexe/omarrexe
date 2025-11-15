@@ -16,14 +16,26 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I'm passionate about data engineering and building efficient data pipelines. Currently focusing on strengthening my SQL and Python skills through hands-on projects while exploring modern ETL tools and data architectures.
+### 👋 Hi, I'm Omar!
 
-**What I'm Currently Doing:**
-- 🏗️ Building hands-on SQL and Python projects to strengthen fundamentals
-- 📚 Learning ETL tools and data pipeline architectures
-- 🤝 Open to data projects where I can learn and contribute
-- 🎯 Mastering data engineering fundamentals and building production-ready pipelines
-- 📍 Based in Egypt 🇪🇬
+I'm a passionate **Data Engineer** focused on building efficient data pipelines and transforming raw data into actionable insights.
+
+### 🔥 What I'm Working On
+
+**Learning & Building:**
+- Strengthening my **SQL** and **Python** skills through real projects
+- Exploring **ETL tools** and modern data pipeline architectures
+- Building production-ready data systems from scratch
+
+**Currently:**
+- 🏗️ Working on hands-on **SQL & Python projects**
+- 📚 Learning **data engineering fundamentals**
+- 🤝 Open to **collaboration** on data projects
+- 📍 Based in **Egypt** 🇪🇬
+
+### 🎯 My Goal
+
+Master the fundamentals and build scalable, production-ready data pipelines that solve real-world problems.
 
 <br clear="right"/>
 
