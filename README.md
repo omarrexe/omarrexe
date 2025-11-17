@@ -1,79 +1,115 @@
-<div align="center">
+# Omar Abdellatif
+## Junior Data Engineer
 
-<!-- Animated Banner -->
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=300&section=header&text=Omar%20|%20Data%20Engineer&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20Data%20Pipelines%20%F0%9F%9A%80%20%7C%20Transforming%20Data%20into%20Insights&descAlignY=55&descAlign=50)](https://github.com/omarrexe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/omarrabdellatif)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/omarrexe)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@omarexe)
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Data+Pipelines+%F0%9F%9A%80;SQL+%7C+Python+%7C+ETL+Enthusiast;Transforming+Data+into+Insights+%F0%9F%93%8A;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+📍 Cairo, Egypt
 
-</div>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=2" width="100%"/>
+## About Me
 
-## 🎯 About Me
+Junior Data Engineer focused on building reliable data pipelines and automation solutions. I work with Python, SQL, and Apache Airflow to create ETL workflows that process and transform data efficiently. My background includes hands-on experience with workflow automation and data processing projects.
 
-### 👋 Hi, I'm Omar!
+Currently expanding my skills in distributed data processing and modern data engineering tools while working on practical projects that solve real-world problems.
 
-I'm a passionate **Data Engineer** focused on building efficient data pipelines and transforming raw data into actionable insights.
+---
 
-### 🔥 What I'm Working On
+## Technical Skills
 
-**Learning & Building:**
-- Strengthening my **SQL** and **Python** skills through real projects
-- Exploring **ETL tools** and modern data pipeline architectures
-- Building production-ready data systems from scratch
+**Data Engineering & Orchestration**
+```
+Apache Airflow | ETL/ELT Pipelines | Data Warehousing | REST APIs
+```
 
-**Currently:**
-- 🏗️ Working on hands-on **SQL & Python projects**
-- 📚 Learning **data engineering fundamentals**
-- 🤝 Open to **collaboration** on data projects
-- 📍 Based in **Egypt** 🇪🇬
+**Programming Languages**
+```
+Python | SQL | Bash | JavaScript | C++
+```
 
-### 🎯 My Goal
+**Data Processing**
+```
+Pandas | NumPy | PySpark | Apache Spark
+```
 
-Master the fundamentals and build scalable, production-ready data pipelines that solve real-world problems.
+**Databases**
+```
+PostgreSQL | MySQL | SQLite | Microsoft SQL Server
+```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=2" width="100%"/>
+**Tools & Platforms**
+```
+Docker | Git | Linux | Streamlit
+```
 
-## 💻 Tech Stack
+---
 
-<div align="center">
+## Projects
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+### 🎬 Movie Recommendation System
+**Stack:** Python · Pandas · Streamlit · TMDb API
 
-### Data & Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+A recommendation engine that helps users discover movies based on their preferences.
 
-### Data Engineering Tools
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+**What I Built:**
+- Data pipeline processing 50K+ movie records from TMDb API
+- Custom filtering system by genre, rating, and release year
+- Automated data cleaning and deduplication logic
+- Interactive web interface using Streamlit
 
-### Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Technical Highlights:**
+- Real-time API integration with error handling
+- Efficient data processing using Pandas
+- Responsive UI for better user experience
 
-</div>
+**[View Repository →](https://github.com/omarrexe/movie-recommender)**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=2" width="100%"/>
+---
 
-## 🌐 Connect With Me
+### 🔄 Airflow Customer Data Pipeline
+**Stack:** Apache Airflow · Python · Docker · PostgreSQL
 
-<div align="center">
+An automated ETL pipeline that demonstrates production-ready data engineering practices.
 
+**What I Built:**
+- Scheduled data ingestion pipeline using Airflow DAGs
+- CSV to PostgreSQL data transfer with validation
+- Incremental loading with upsert logic to prevent duplicates
+- Dockerized environment for consistent deployment
+
+**Technical Highlights:**
+- Runs automatically every 5 minutes
+- Handles data updates without creating duplicates
+- Robust error handling and logging
+
+**[View Repository →](https://github.com/omarrexe/airflow-customer-pipeline)**
+
+---
+
+## Currently Learning
+
+Building my foundation in:
+- Apache Airflow workflows and DAG design
+- Python for data engineering and automation
+- Apache Spark fundamentals and PySpark
+- SQL optimization and database design
+- Docker containerization for data pipelines
+
+---
+
+## Let's Connect
+
+I'm open to junior data engineering opportunities, freelance projects, and collaborations.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omarrabdellatif)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@omarexe)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/omarrr1)
 
-</div>
+---
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+<div align="center">
+
+*Learning by building.*
 
 </div>
