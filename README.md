@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Animated Banner -->
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Omar%20|%20Data%20Engineer&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20Data%20Pipelines%20%F0%9F%9A%80%20%7C%20Transforming%20Data%20into%20Insights&descAlignY=55&descAlign=50)](https://github.com/omarrexe)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=300&section=header&text=Omar%20|%20Data%20Engineer&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20Data%20Pipelines%20%F0%9F%9A%80%20%7C%20Transforming%20Data%20into%20Insights&descAlignY=55&descAlign=50)](https://github.com/omarrexe)
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Data+Pipelines+%F0%9F%9A%80;SQL+%7C+Python+%7C+ETL+Enthusiast;Transforming+Data+into+Insights+%F0%9F%93%8A;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=2" width="100%"/>
 
 ## 🎯 About Me
 
@@ -33,7 +33,7 @@ I'm a passionate **Data Engineer** focused on building efficient data pipelines 
 
 Master the fundamentals and build scalable, production-ready data pipelines that solve real-world problems.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=2" width="100%"/>
 
 ## 💻 Tech Stack
 
@@ -62,7 +62,7 @@ Master the fundamentals and build scalable, production-ready data pipelines that
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=2" width="100%"/>
 
 ## 🌐 Connect With Me
 
