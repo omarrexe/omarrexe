@@ -2,7 +2,6 @@
 ## Junior Data Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/omarrabdellatif)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/omarrexe)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@omarexe)
 
 📍 Cairo, Egypt
@@ -104,12 +103,5 @@ Building my foundation in:
 I'm open to junior data engineering opportunities, freelance projects, and collaborations.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omarrabdellatif)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@omarexe)
 
----
 
-<div align="center">
-
-*Learning by building.*
-
-</div>
