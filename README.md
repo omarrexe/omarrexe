@@ -64,48 +64,14 @@ Master the fundamentals and build scalable, production-ready data pipelines that
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=omarrexe&show_icons=true&theme=transparent&hide_border=true&title_color=2e9ef7&icon_color=2e9ef7&text_color=666&bg_color=00000000" alt="GitHub Stats" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarrexe&layout=compact&theme=transparent&hide_border=true&title_color=2e9ef7&text_color=666&bg_color=00000000&langs_count=8" alt="Top Languages" />
-
-</div>
-
----
-
-## 🏆 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/omarrexe)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/omarrexe)
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/omarrexe)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@omarexe)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/omarrr1)
 
 </div>
-
----
-
-<div align="center">
-
-**"Data is the new oil, and I'm learning to refine it! ⛽→💎"**
-
----
-
-*Thanks for stopping by! Feel free to reach out if you want to collaborate on data projects! 🤝*
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
