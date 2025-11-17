@@ -103,5 +103,6 @@ Building my foundation in:
 I'm open to junior data engineering opportunities, freelance projects, and collaborations.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omarrabdellatif)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar.m.abdellatif@outlook.com)
 
 
